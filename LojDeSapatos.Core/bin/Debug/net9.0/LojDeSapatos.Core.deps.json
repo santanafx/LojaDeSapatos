@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LojDeSapatos.Core/1.0.0": {
+        "runtime": {
+          "LojDeSapatos.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LojDeSapatos.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

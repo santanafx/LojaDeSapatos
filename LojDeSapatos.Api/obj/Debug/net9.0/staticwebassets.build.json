@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8rrOGkEkiT62s8epbDeNCe3AAKC2NnKiFFJIxBKAsuk=",
+  "Source": "LojDeSapatos.Api",
+  "BasePath": "_content/LojDeSapatos.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
