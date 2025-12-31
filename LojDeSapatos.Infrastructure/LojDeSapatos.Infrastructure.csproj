@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-  <ProjectReference Include="../LojDeSapatos.Application/LojDeSapatos.Application.csproj"/>
   <ProjectReference Include="../LojDeSapatos.Core/LojDeSapatos.Core.csproj"/>
   </ItemGroup>
 </Project>

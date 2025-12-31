@@ -8,6 +8,7 @@
 
   <ItemGroup>
   <ProjectReference Include="../LojDeSapatos.Core/LojDeSapatos.Core.csproj"/>
+  <ProjectReference Include="../LojDeSapatos.Infrastructure/LojDeSapatos.Infrastructure.csproj"/>
   </ItemGroup>
 
 </Project>
