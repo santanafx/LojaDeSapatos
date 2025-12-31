@@ -5,6 +5,7 @@
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Core/obj/Debug/net9.0/LojDeSapatos.Core.AssemblyInfoInputs.cache
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Core/obj/Debug/net9.0/LojDeSapatos.Core.AssemblyInfo.cs
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Core/obj/Debug/net9.0/LojDeSapatos.Core.csproj.CoreCompileInputs.cache
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Core/obj/Debug/net9.0/LojDeSapatos.Core.sourcelink.json
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Core/obj/Debug/net9.0/LojDeSapatos.Core.dll
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Core/obj/Debug/net9.0/refint/LojDeSapatos.Core.dll
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Core/obj/Debug/net9.0/LojDeSapatos.Core.pdb

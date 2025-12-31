@@ -1,15 +1,14 @@
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/bin/Debug/net9.0/LojDeSapatos.Infrastructure.deps.json
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/bin/Debug/net9.0/LojDeSapatos.Infrastructure.dll
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/bin/Debug/net9.0/LojDeSapatos.Infrastructure.pdb
-/home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/bin/Debug/net9.0/LojDeSapatos.Application.dll
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/bin/Debug/net9.0/LojDeSapatos.Core.dll
-/home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/bin/Debug/net9.0/LojDeSapatos.Application.pdb
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/bin/Debug/net9.0/LojDeSapatos.Core.pdb
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/obj/Debug/net9.0/LojDeSapatos.Infrastructure.csproj.AssemblyReference.cache
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/obj/Debug/net9.0/LojDeSapatos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/obj/Debug/net9.0/LojDeSapatos.Infrastructure.AssemblyInfoInputs.cache
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/obj/Debug/net9.0/LojDeSapatos.Infrastructure.AssemblyInfo.cs
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/obj/Debug/net9.0/LojDeSapatos.Infrastructure.csproj.CoreCompileInputs.cache
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/obj/Debug/net9.0/LojDeSapatos.Infrastructure.sourcelink.json
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/obj/Debug/net9.0/LojDeSap.68DC48A4.Up2Date
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/obj/Debug/net9.0/LojDeSapatos.Infrastructure.dll
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/obj/Debug/net9.0/refint/LojDeSapatos.Infrastructure.dll
