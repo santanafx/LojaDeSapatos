@@ -1,7 +1,9 @@
+using LojDeSapatos.Infrastructure.Persistence;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddSingleton<LojaDeSapatosDbContext>();
 // Adicionar serviços de Controllers
 builder.Services.AddControllers();
 
