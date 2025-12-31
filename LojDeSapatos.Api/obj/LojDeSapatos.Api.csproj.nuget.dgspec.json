@@ -105,6 +105,9 @@
             "projectReferences": {
               "/home/santanafx/LojaDeSapatos/LojDeSapatos.Core/LojDeSapatos.Core.csproj": {
                 "projectPath": "/home/santanafx/LojaDeSapatos/LojDeSapatos.Core/LojDeSapatos.Core.csproj"
+              },
+              "/home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/LojDeSapatos.Infrastructure.csproj": {
+                "projectPath": "/home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/LojDeSapatos.Infrastructure.csproj"
               }
             }
           }
@@ -227,9 +230,6 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/home/santanafx/LojaDeSapatos/LojDeSapatos.Application/LojDeSapatos.Application.csproj": {
-                "projectPath": "/home/santanafx/LojaDeSapatos/LojDeSapatos.Application/LojDeSapatos.Application.csproj"
-              },
               "/home/santanafx/LojaDeSapatos/LojDeSapatos.Core/LojDeSapatos.Core.csproj": {
                 "projectPath": "/home/santanafx/LojaDeSapatos/LojDeSapatos.Core/LojDeSapatos.Core.csproj"
               }

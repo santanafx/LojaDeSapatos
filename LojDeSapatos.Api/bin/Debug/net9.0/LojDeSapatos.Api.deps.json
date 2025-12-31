@@ -65,7 +65,8 @@
       },
       "LojDeSapatos.Application/1.0.0": {
         "dependencies": {
-          "LojDeSapatos.Core": "1.0.0"
+          "LojDeSapatos.Core": "1.0.0",
+          "LojDeSapatos.Infrastructure": "1.0.0"
         },
         "runtime": {
           "LojDeSapatos.Application.dll": {
@@ -84,7 +85,6 @@
       },
       "LojDeSapatos.Infrastructure/1.0.0": {
         "dependencies": {
-          "LojDeSapatos.Application": "1.0.0",
           "LojDeSapatos.Core": "1.0.0"
         },
         "runtime": {

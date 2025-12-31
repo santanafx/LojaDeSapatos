@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v9.0": {
       "LojDeSapatos.Application/1.0.0": {
         "dependencies": {
-          "LojDeSapatos.Core": "1.0.0"
+          "LojDeSapatos.Core": "1.0.0",
+          "LojDeSapatos.Infrastructure": "1.0.0"
         },
         "runtime": {
           "LojDeSapatos.Application.dll": {}
@@ -17,6 +18,17 @@
       "LojDeSapatos.Core/1.0.0": {
         "runtime": {
           "LojDeSapatos.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LojDeSapatos.Infrastructure/1.0.0": {
+        "dependencies": {
+          "LojDeSapatos.Core": "1.0.0"
+        },
+        "runtime": {
+          "LojDeSapatos.Infrastructure.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -31,6 +43,11 @@
       "sha512": ""
     },
     "LojDeSapatos.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LojDeSapatos.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -93,7 +93,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "LojDeSapatos.Core": "1.0.0"
+          "LojDeSapatos.Core": "1.0.0",
+          "LojDeSapatos.Infrastructure": "1.0.0"
         },
         "compile": {
           "bin/placeholder/LojDeSapatos.Application.dll": {}
@@ -116,7 +117,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "LojDeSapatos.Application": "1.0.0",
           "LojDeSapatos.Core": "1.0.0"
         },
         "compile": {

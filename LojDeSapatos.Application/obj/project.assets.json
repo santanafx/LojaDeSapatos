@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/LojDeSapatos.Core.dll": {}
         }
+      },
+      "LojDeSapatos.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "LojDeSapatos.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LojDeSapatos.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LojDeSapatos.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../LojDeSapatos.Core/LojDeSapatos.Core.csproj",
       "msbuildProject": "../LojDeSapatos.Core/LojDeSapatos.Core.csproj"
+    },
+    "LojDeSapatos.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../LojDeSapatos.Infrastructure/LojDeSapatos.Infrastructure.csproj",
+      "msbuildProject": "../LojDeSapatos.Infrastructure/LojDeSapatos.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "LojDeSapatos.Core >= 1.0.0"
+      "LojDeSapatos.Core >= 1.0.0",
+      "LojDeSapatos.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -54,6 +73,9 @@
           "projectReferences": {
             "/home/santanafx/LojaDeSapatos/LojDeSapatos.Core/LojDeSapatos.Core.csproj": {
               "projectPath": "/home/santanafx/LojaDeSapatos/LojDeSapatos.Core/LojDeSapatos.Core.csproj"
+            },
+            "/home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/LojDeSapatos.Infrastructure.csproj": {
+              "projectPath": "/home/santanafx/LojaDeSapatos/LojDeSapatos.Infrastructure/LojDeSapatos.Infrastructure.csproj"
             }
           }
         }

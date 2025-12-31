@@ -2,12 +2,15 @@
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/bin/Debug/net9.0/LojDeSapatos.Application.dll
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/bin/Debug/net9.0/LojDeSapatos.Application.pdb
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/bin/Debug/net9.0/LojDeSapatos.Core.dll
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Application/bin/Debug/net9.0/LojDeSapatos.Infrastructure.dll
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/bin/Debug/net9.0/LojDeSapatos.Core.pdb
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Application/bin/Debug/net9.0/LojDeSapatos.Infrastructure.pdb
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/obj/Debug/net9.0/LojDeSapatos.Application.csproj.AssemblyReference.cache
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/obj/Debug/net9.0/LojDeSapatos.Application.GeneratedMSBuildEditorConfig.editorconfig
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/obj/Debug/net9.0/LojDeSapatos.Application.AssemblyInfoInputs.cache
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/obj/Debug/net9.0/LojDeSapatos.Application.AssemblyInfo.cs
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/obj/Debug/net9.0/LojDeSapatos.Application.csproj.CoreCompileInputs.cache
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Application/obj/Debug/net9.0/LojDeSapatos.Application.sourcelink.json
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/obj/Debug/net9.0/LojDeSap.BEBFBF69.Up2Date
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/obj/Debug/net9.0/LojDeSapatos.Application.dll
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Application/obj/Debug/net9.0/refint/LojDeSapatos.Application.dll

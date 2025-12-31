@@ -1,10 +1,3 @@
-/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.csproj.AssemblyReference.cache
-/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.GeneratedMSBuildEditorConfig.editorconfig
-/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.AssemblyInfoInputs.cache
-/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.AssemblyInfo.cs
-/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.csproj.CoreCompileInputs.cache
-/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.MvcApplicationPartsAssemblyInfo.cs
-/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.MvcApplicationPartsAssemblyInfo.cache
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Api/bin/Debug/net9.0/appsettings.Development.json
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Api/bin/Debug/net9.0/appsettings.json
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Api/bin/Debug/net9.0/LojDeSapatos.Api.staticwebassets.endpoints.json
@@ -23,6 +16,14 @@
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Api/bin/Debug/net9.0/LojDeSapatos.Application.pdb
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Api/bin/Debug/net9.0/LojDeSapatos.Infrastructure.pdb
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Api/bin/Debug/net9.0/LojDeSapatos.Core.pdb
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.csproj.AssemblyReference.cache
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.AssemblyInfoInputs.cache
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.AssemblyInfo.cs
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.csproj.CoreCompileInputs.cache
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/LojDeSapatos.Api.sourcelink.json
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/scopedcss/bundle/LojDeSapatos.Api.styles.css
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/staticwebassets.build.json
 /home/santanafx/LojaDeSapatos/LojDeSapatos.Api/obj/Debug/net9.0/staticwebassets.development.json
