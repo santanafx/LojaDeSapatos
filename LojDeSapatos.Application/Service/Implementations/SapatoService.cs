@@ -1,12 +1,13 @@
 
 
 using LojDeSapatos.Application.InputModels;
+using LojDeSapatos.Application.Service.Interface;
 using LojDeSapatos.Core.Entities;
 using LojDeSapatos.Infrastructure.Persistence;
 
 namespace LojDeSapatos.Application.Service.Implementations
 {
-  public class SapatoService
+  public class SapatoService : ISapatoService
   {
     private readonly LojaDeSapatosDbContext _dbContext;
     public SapatoService(LojaDeSapatosDbContext dbContext)
