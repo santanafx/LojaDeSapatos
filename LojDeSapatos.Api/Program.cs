@@ -1,9 +1,14 @@
+using LojDeSapatos.Application.Service.Implementations;
+using LojDeSapatos.Application.Service.Interface;
 using LojDeSapatos.Infrastructure.Persistence;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddSingleton<LojaDeSapatosDbContext>();
+
+// Application services
+builder.Services.AddScoped<ISapatoService, SapatoService>();
 // Adicionar serviços de Controllers
 builder.Services.AddControllers();
 
